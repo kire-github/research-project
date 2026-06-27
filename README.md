@@ -2,7 +2,9 @@
 
 This repository links to the work of students for the Research project course of the CSE bachelor at TU Delft.
 
-Please see their projects [here](https://cse3000-research-project.github.io/2026/Q4).
+Please see the research paper written for this project [here](https://repository.tudelft.nl/record/uuid:456981d5-3cab-46f0-af7c-762f65e790f3).
+
+See other projects [here](https://cse3000-research-project.github.io/2026/Q4).
 
 ## Environment Setup
 
